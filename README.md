@@ -55,7 +55,7 @@ I'm a **Backend-focused Full-Stack Developer** based in Hyderabad, India. I spec
   <a href="mailto:varunsaipannala@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="portfolio-12iqa448f-varuns-projects-cfd5b24b.vercel.app">
+  <a href="https://portfolio-12iqa448f-varuns-projects-cfd5b24b.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-101010?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
