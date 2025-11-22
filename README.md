@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🚀 V11 — Full Stack Developer | Node.js • Express • DevOps  
+_Apprenticed at Bharat Dynamics Limited (BDL)_  
 
-<!--
-**DPICODER/DPICODER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Focus Areas**  
+- Backend: Node.js, Express, Sequelize, MariaDB  
+- DevOps/SysOps: Linux (Debian), Nginx, Docker, Self-hosted Cloud (Seafile, Nextcloud)  
+- Automation & Scripts: n8n, Tailscale, OCR pipeline  
 
-Here are some ideas to get you started:
+📌 **Current Projects**  
+- **Asset Management System (BDL)** – Full-stack system: EJS, Node.js, MariaDB  
+- **Invoice OCR engine** – Optimised for low-end hardware  
+- **Server Health Digest Pipeline** – n8n + Grafana/Prometheus + Telegram  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Learning & Growth**  
+– System design for manufacturing/defence workflows  
+– Performance optimisation in Node.js  
+– Microservices + Event-Driven architecture  
+
+📫 **Contact / Let’s connect**  
+[LinkedIn](YOUR_LINK) • [YouTube](YOUR_LINK) • [Blog/Portfolio](YOUR_LINK)  
