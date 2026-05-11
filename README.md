@@ -99,9 +99,9 @@ currently  : Open to exciting backend/full-stack opportunities
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DPICODER&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" height="160"/>
+<img src="https://YOUR_VERCEL_DOMAIN/api?username=DPICODER&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPICODER&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="160"/>
+<img src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=DPICODER&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="160"/>
 
 <br/><br/>
 
