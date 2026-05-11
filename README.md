@@ -105,7 +105,7 @@ currently  : Open to exciting backend/full-stack opportunities
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DPICODER&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="160"/>
+<img src="https://streak-stats.demolab.com?user=DPICODER&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" height="160"/>
 
 <br/><br/>
 
