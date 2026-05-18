@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Varun%20Pannala&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Security%20Specialist&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems+%F0%9F%94%A7;Defence+Enterprise+Automation+%F0%9F%9B%A1%EF%B8%8F;Secure+Auth+%26+RBAC+Architectures+%F0%9F%94%91;Air-Gapped+Deployment+Specialist+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems+%F0%9F%94%A7;Multi-Tenant+SaaS+Architecture+%F0%9F%8F%A2;Secure+Auth+%26+RBAC+Architectures+%F0%9F%94%91;Defence+Enterprise+Automation+%F0%9F%9B%A1%EF%B8%8F;Air-Gapped+Deployment+Specialist+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@ location   : Hyderabad, India 🇮🇳
 role       : Backend-focused Full-Stack Developer
 focus      : Scalable Systems · Secure Auth · Defence Automation
 experience : BDL (Bharat Dynamics Limited) — 2024–2025
-currently  : Open to exciting backend/full-stack opportunities
+currently  : Building StockLane — multi-tenant SaaS inventory backend
 ```
 
 > *"I don't just write code — I architect systems that hold up under pressure, in environments where failure isn't an option."*
@@ -46,6 +46,8 @@ currently  : Open to exciting backend/full-stack opportunities
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=flat-square&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **DevOps & Infrastructure**
 
@@ -59,6 +61,7 @@ currently  : Open to exciting backend/full-stack opportunities
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-%230080FF.svg?style=flat-square&logo=javascript&logoColor=white)
 
 </div>
 
@@ -86,10 +89,10 @@ currently  : Open to exciting backend/full-stack opportunities
 
 <div align="center">
 
-| 🔒 Secure Cloud Data | 🎮 Smart-GPU Tool |
-|---|---|
-| Multi-stage authentication system for hardened cloud storage with RBAC enforcement | Automated GPU recommendation engine — matches hardware to workload profiles |
-| ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-%23007ACC.svg?style=flat-square&logo=robotframework&logoColor=white) |
+| 🏢 StockLane | 🔒 Secure Cloud Data | 🎮 Smart-GPU Tool |
+|---|---|---|
+| Multi-tenant SaaS inventory backend with invite-based onboarding, permission-driven RBAC, JWT auth, and Sequelize CLI migrations. Strict tenant-scoped data isolation across all routes. | Multi-stage authentication system for hardened cloud storage with RBAC enforcement | Automated GPU recommendation engine — matches hardware to workload profiles |
+| ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=flat-square&logo=sequelize&logoColor=white) | ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-%23007ACC.svg?style=flat-square&logo=robotframework&logoColor=white) |
 
 </div>
 
@@ -99,9 +102,9 @@ currently  : Open to exciting backend/full-stack opportunities
 
 <div align="center">
 
-<img src="https://YOUR_VERCEL_DOMAIN/api?username=DPICODER&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DPICODER&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" height="160"/>
 &nbsp;&nbsp;
-<img src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=DPICODER&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPICODER&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="160"/>
 
 <br/><br/>
 
