@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-varun-pannala)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunsaipannala@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-12iqa448f-varuns-projects-cfd5b24b.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-jsmxp6ont-varuns-projects-cfd5b24b.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=DPICODER&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/DPICODER)
 
 </div>
